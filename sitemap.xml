@@ -1,11 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://michaelhood.github.com/blog/archives/</loc>
-        <lastmod>2012-02-10T02:11:23-08:00</lastmod>
+        <loc>http://michaelhood.net/blog/first-post/</loc>
+        <lastmod>2012-02-10T02:52:48-08:00</lastmod>
     </url>
     <url>
-        <loc>http://michaelhood.github.com/</loc>
-        <lastmod>2012-02-10T02:11:23-08:00</lastmod>
+        <loc>http://michaelhood.net/resume/</loc>
+        <lastmod>2012-02-10T03:22:06-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://michaelhood.net/blog/archives/</loc>
+        <lastmod>2012-02-10T02:52:48-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://michaelhood.net/contact/</loc>
+        <lastmod>2012-02-10T04:01:07-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://michaelhood.net/</loc>
+        <lastmod>2012-02-10T03:58:57-08:00</lastmod>
     </url>
 </urlset>

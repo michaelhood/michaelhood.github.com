@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://michaelhood.github.com/atom.xml" rel="self"/>
-  <link href="http://michaelhood.github.com/"/>
-  <updated>2012-02-10T02:14:22-08:00</updated>
-  <id>http://michaelhood.github.com/</id>
+  <title><![CDATA[Michael Hood]]></title>
+  <link href="http://michaelhood.net/atom.xml" rel="self"/>
+  <link href="http://michaelhood.net/"/>
+  <updated>2012-02-10T04:02:31-08:00</updated>
+  <id>http://michaelhood.net/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Michael Hood]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[first post]]></title>
+    <link href="http://michaelhood.net/blog/first-post/"/>
+    <updated>2012-02-10T02:52:00-08:00</updated>
+    <id>http://michaelhood.net/blog/first-post</id>
+    <content type="html"><![CDATA[<p>oh hi.</p>
+]]></content>
+  </entry>
   
 </feed>
